@@ -1,5 +1,5 @@
 # php
 
-Variable $name;
-Variable $eyeColor;
-Variable $age;
+- Variable $name;
+- Variable $eyeColor;
+- Variable $age;
