@@ -1,2 +1,5 @@
 # php
-My Name.
+
+Variable $name;
+Variable $eyeColor;
+Variable $age;
