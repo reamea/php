@@ -12,7 +12,7 @@
     <body>
         <?php
             $person1 = new Person();
-            $person1->setPerson("Reamea", "Black", "35");
+            $person1->setPerson("Reamea1", "Black", "35");
             echo "$person1->name <br> $person1->eyeColor <br>$person1->age";
         ?>
     </body>
